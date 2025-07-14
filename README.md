@@ -140,7 +140,7 @@ Permite qualquer visitante consultar os agendamentos que ele mesmo fez.
 
 ### 9. 📤 Redirecionamento por E-mail
 Permite qualquer visitante consultar os agendamentos que ele mesmo fez.  
-![Ver Agendamentos Públicos](prints/email.png)
+![Email](prints/email.png)
 
 ---
 
