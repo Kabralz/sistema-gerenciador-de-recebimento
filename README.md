@@ -9,9 +9,14 @@
 
 ## 📝 Descrição
 
-Sistema web para **agendamento de recebimento de cargas** com controle completo de conferência, recepção e visualizações administrativas.  
+Contexto: 
+O setor de recebimento enfrentava dificuldades para mensurar sua real capacidade operacional, como o número de carretas atendidas, volumes recebidos, quantidade de paletes e o tempo médio por descarga. A falta desses informações impactava diretamente a organização da logística, gerando excesso de horas extras, sobrecarga da equipe e insatisfação de fornecedores devido ao longo tempo de espera.
 
-Desenvolvido para uso interno no **Souza Atacado Distribuidor**, este sistema garante controle de fluxo logístico, segurança na triagem e visibilidade total dos agendamentos.
+Ação: 
+Desenvolvimento de um sistema Gerenciador de Recebimento, cuja função baseia-se em: agendamento de cargas captando todas as informações necessárias e importantes para registro, lista de agendamentos e Fila de espera.
+
+Resultado:
+A solução centralizou as informações, trouxe controle total do fluxo de recebimento e implementou um calendário de agendamento, permitindo que tanto a equipe interna quanto os fornecedores/clientes façam seus agendamentos diretamente, inclusive pelo celular. A implantação trouxe mais organização para a logística, otimizou a preparação da equipe para receber os caminhões.
 
 ---
 
