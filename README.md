@@ -130,13 +130,13 @@ Mostra agendamentos do dia com botão de chamada e conferência.
 Apresenta informações e acesso ao módulo público.  
 ![Página Pública](prints/publica.png)
 
-### 7. 👁️ Ver Agendamentos Públicos (`pagina-publica.php`)
+### 7. 👁️ Calendário Publico (`pagina-publica.php`)
 Permite qualquer visitante consultar dias agendados/livres.  
 ![Calendário Publico](prints/calendario-publico.png)
 
 ### 8. 👁️ Ver Agendamentos Públicos (`visao-agendamentos-publico.php`)
 Permite qualquer visitante consultar os agendamentos que ele mesmo fez.  
-![Ver Agendamentos Públicos](prints/agendamentos-publico.png)
+![Ver Agendamentos Públicos](prints/agendamentos-publicos.png)
 
 ### 9. 📤 Redirecionamento por E-mail
 Permite qualquer visitante consultar os agendamentos que ele mesmo fez.  
