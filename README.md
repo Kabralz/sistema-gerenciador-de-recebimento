@@ -139,7 +139,7 @@ Permite qualquer visitante consultar os agendamentos que ele mesmo fez.
 ![Ver Agendamentos Públicos](prints/agendamentos-publicos.png)
 
 ### 9. 📤 Redirecionamento por E-mail
-Permite qualquer visitante consultar os agendamentos que ele mesmo fez.  
+O setor de Compras é responsável por encaminhar automaticamente o link de agendamento aos fornecedores, facilitando o processo de marcação de entregas.
 ![Email](prints/email.png)
 
 ---
