@@ -138,6 +138,10 @@ Permite qualquer visitante consultar dias agendados/livres.
 Permite qualquer visitante consultar os agendamentos que ele mesmo fez.  
 ![Ver Agendamentos Públicos](prints/agendamentos-publico.png)
 
+### 9. 📤 Redirecionamento por E-mail
+Permite qualquer visitante consultar os agendamentos que ele mesmo fez.  
+![Ver Agendamentos Públicos](prints/email.png)
+
 ---
 
 ## 👨‍💻 Autor
