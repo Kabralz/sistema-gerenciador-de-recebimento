@@ -132,7 +132,7 @@ Apresenta informações e acesso ao módulo público.
 
 ### 7. 👁️ Ver Agendamentos Públicos (`pagina-publica.php`)
 Permite qualquer visitante consultar dias agendados/livres.  
-![Ver Agendamentos Públicos](prints/calendario-publico.png)
+![Calendário Publico](prints/calendario-publico.png)
 
 ### 8. 👁️ Ver Agendamentos Públicos (`visao-agendamentos-publico.php`)
 Permite qualquer visitante consultar os agendamentos que ele mesmo fez.  
