@@ -153,7 +153,7 @@ Sistema desenvolvido para uso interno da operação logística do Souza Atacado 
 
 ## 🤝 Colaboradores
 
-**Alexandre Rodrigues** – Contribuições no layout e experiência visual
+**Alexandre Rodrigues** – Contribuição na parte de User Interface (UI) e User Experience (UX)
 
 ---
 
